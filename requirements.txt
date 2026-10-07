@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+accelerate
+scikit-learn
+pandas
+numpy
+matplotlib
+ftfy
+tweet-preprocessor
+huggingface_hub
