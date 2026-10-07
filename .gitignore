@@ -1,0 +1,9 @@
+*.bin
+*.safetensors
+*_ckpt/
+*_out/
+outputs/
+*.npy
+__pycache__/
+.ipynb_checkpoints/
+.env
