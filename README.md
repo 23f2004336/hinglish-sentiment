@@ -5,7 +5,7 @@ Hinglish (romanized Hindi mixed with English), and compared them against a TF-ID
 The focus is on how the models do on the **Hinglish subset**, not just the overall score.
 
 - **Model:** [Shrishti03/hinglish-sentiment-muril](https://huggingface.co/Shrishti03/hinglish-sentiment-muril)
-- **Demo:** coming soon (Hugging Face Space)
+- **Demo:** (https://huggingface.co/spaces/Shrishti03/hinglish-sentiment) (Hugging Face Space)
 
 ## Results
 
